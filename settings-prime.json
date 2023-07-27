@@ -1,0 +1,25 @@
+{
+    "APP_NAME": "Prime Injector",
+    "VER": "4.0.0",
+    "EXPLOIT": "Prime.exe",
+    "TARGET_PROCESS": "Windows10Universal.exe",
+    "HASHURL": "TBD",
+    "DLLURL": "https://www.dropbox.com/scl/fi/xf1xlptm5te2rawfp4wuk/InjectorSettings.txt?rlkey=fflbacumhitpxnyz6q2hpa8u6&dl=1",
+    "PROCESSCHECK": true,
+    "HASHCHECK": false,
+    "TARGETPROCESSCHECK": true,
+    "VMCHECK": false,
+    "SHUTDOWN": false,
+    "WATERMARK": true,
+    "DLLS": [
+    "fluxus"
+    ],
+    "METHODS": [
+    "CreateRemoteThread",
+    "Thread Hijacking (x86)",
+    "Manual Mapping"
+    ],
+    "UI_WIDTH": 580.0,
+    "UI_HEIGHT": 460.0,
+    "DEPENDENCY_URL": "https://cdn.discordapp.com/attachments/1077303154359685121/1126554644563361832/Injector-Dependency_protected.dll"
+}
