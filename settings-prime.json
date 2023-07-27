@@ -4,7 +4,7 @@
     "EXPLOIT": "Prime.exe",
     "TARGET_PROCESS": "Windows10Universal.exe",
     "HASHURL": "TBD",
-    "DLLURL": "https://www.dropbox.com/scl/fi/xf1xlptm5te2rawfp4wuk/InjectorSettings.txt?rlkey=fflbacumhitpxnyz6q2hpa8u6&dl=1",
+    "DLLURL": "https://raw.githubusercontent.com/BlazeProductions/Prime-Storage/main/InjectorSettings.txt",
     "PROCESSCHECK": true,
     "HASHCHECK": false,
     "TARGETPROCESSCHECK": true,
