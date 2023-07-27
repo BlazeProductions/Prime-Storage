@@ -1,1 +1,1 @@
-https://github.com/BlazeProductions/Prime-Storage/raw/main/fluxus.dll
+https://raw.githubusercontent.com/BlazeProductions/Prime-Storage/main/fluxus.dll
