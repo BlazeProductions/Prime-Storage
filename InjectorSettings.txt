@@ -1,1 +1,1 @@
-https://raw.githubusercontent.com/BlazeProductions/Prime-Storage/main/fluxus.dll|https://raw.githubusercontent.com/Alawapr/Personal-storage/main/printsploit.dll
+https://raw.githubusercontent.com/BlazeProductions/Prime-Storage/main/fluxus.dll|https://github.com/Alawapr/Personal-storage/raw/main/printsploit.dll
