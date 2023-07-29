@@ -12,12 +12,13 @@
     "SHUTDOWN": false,
     "WATERMARK": true,
     "DLLS": [
-    "fluxus"
+        "fluxus",
+        "printsploit"
     ],
     "METHODS": [
-    "CreateRemoteThread",
-    "Thread Hijacking (x86)",
-    "Manual Mapping"
+        "CreateRemoteThread",
+        "Thread Hijacking (x86)",
+        "Manual Mapping"
     ],
     "UI_WIDTH": 580.0,
     "UI_HEIGHT": 460.0,
